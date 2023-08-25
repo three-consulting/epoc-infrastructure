@@ -1,0 +1,10 @@
+*.json
+*/.json
+*/.terraform
+*.terraform
+*/*.lock.hcl
+*.lock.hcl
+*/*.backup
+*.backup
+*/terraform.tfstate.d/*/terraform.tfstate
+*/*/terraform.tfstate
